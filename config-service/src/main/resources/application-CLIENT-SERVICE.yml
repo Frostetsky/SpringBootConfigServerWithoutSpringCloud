@@ -1,0 +1,5 @@
+app:
+  value: 16
+  config:
+    version: 13.0
+    message: Hello, I am Client-Service v13

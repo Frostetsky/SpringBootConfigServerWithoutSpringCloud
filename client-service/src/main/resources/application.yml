@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+
+spring:
+  config:
+    endpoint: http://localhost:9091/client-service/config
